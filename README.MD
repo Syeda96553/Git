@@ -18,4 +18,12 @@
 
 
 Languages and Tools:
-aws bootstrap css3 docker git grafana html5 java javascript jenkins kubernetes linux mysql nginx php postgresql selenium
+aws docker git grafana python java javascript jenkins kubernetes linux mysql nginx php postgresql Ansible Maven Terraform Prometheus
+
+
+Connect with me:
+
+rishav-chanda-b89a791b3 rishav_chanda
+
+ 
+

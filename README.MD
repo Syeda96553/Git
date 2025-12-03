@@ -23,7 +23,7 @@ aws docker git grafana python java javascript jenkins kubernetes linux mysql ngi
 
 Connect with me:
 
-rishav-chanda-b89a791b3 rishav_chanda
+linkedIn : www.linkedin.com/in/syedakauser
 
  
 
